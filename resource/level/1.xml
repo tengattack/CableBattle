@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <base>
+    <level>1</level>
+    <name>新手初入</name>
+    <description>欢迎来到网线的战争，先选择好网线，试试用鼠标将输出端口、输入端口用网线连接起来</description>
+    <winmessage>恭喜你通过第一关，成为新手</winmessage>
+    <bgm>level1</bgm>
+  </base>
+  <map>
+    <baseblock>
+      <type>0</type>
+      <props>
+        <type>0</type>
+        <range>1x1</range>
+      </props>
+    </baseblock>
+    
+    <block>
+      <x>0</x>
+      <y>0</y>
+      <props>
+        <type>1</type>
+      </props>
+    </block>
+
+    <block>
+      <x>31</x>
+      <y>17</y>
+      <props>
+        <type>2</type>
+      </props>
+    </block>
+ 
+  </map>
+
+  <item>
+    <props>
+      <type>4</type>
+      <amount>0</amount>
+    </props>
+  </item>
+
+</root>

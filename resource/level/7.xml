@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <base>
+    <level>7</level>
+    <name>轮回迷宫</name>
+    <description>晕晕地，走不出去了</description>
+    <winmessage>恭喜你通过了第七关，走出了这眩晕的迷宫</winmessage>
+    <bgm>level7</bgm>
+  </base>
+  <map>
+    <baseblock>
+      <type>0</type>
+      <props>
+        <type>0</type>
+        <range>1x1</range>
+      </props>
+    </baseblock>
+
+    <block>
+      <x>0</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>4</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>6</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>13</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>15</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>1</x>
+      <y>17</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>2</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>2</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>2</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+    
+    <block>
+      <x>2</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>6</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>13</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>4</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>4</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>4</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>4</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>4</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>4</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>2</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>6</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>5</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>2</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>7</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>9</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>10</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>10</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>10</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>10</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>10</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>10</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>13</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>15</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>12</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>13</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>15</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>12</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>14</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>14</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>14</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>14</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>14</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>14</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>14</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>14</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>14</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>15</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>15</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>15</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>15</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>15</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>15</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>15</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>16</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>16</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>16</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>16</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>16</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>16</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>16</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>20</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>20</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>20</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>20</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>20</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>20</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>20</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>21</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+
+
+    <block>
+      <x>22</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+
+
+    <block>
+      <x>23</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>24</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>24</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>24</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>24</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>24</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>25</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>25</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>6</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>6</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>26</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>26</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>26</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>26</x>
+      <y>15</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>26</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>27</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+
+
+    <block>
+      <x>27</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>27</x>
+      <y>4</y>
+      <type>1</type> 
+    </block>
+
+
+    <block>
+      <x>27</x>
+      <y>6</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>9</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>14</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>15</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>28</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>    
+
+    <block>
+      <x>28</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>29</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>29</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>0</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>2</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>3</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>4</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>5</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>6</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>7</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>8</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>10</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>11</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>12</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>13</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>15</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>16</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>31</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>0</x>
+      <y>0</y>
+      <props>
+        <type>1</type>
+      </props>
+    </block>
+
+    <block>
+      <x>31</x>
+      <y>17</y>
+      <props>
+        <type>2</type>
+      </props>
+    </block>
+
+    <block>
+      <x>11</x>
+      <y>7</y>
+      <props>
+        <type>3</type>
+        <range>3x3</range>
+      </props>
+    </block>
+ 
+    <block>
+      <x>28</x>
+      <y>3</y>
+      <props>
+        <type>3</type>
+        <range>2x2</range>
+      </props>
+    </block>
+
+    <block>
+      <x>28</x>
+      <y>8</y>
+      <props>
+        <type>3</type>
+        <range>2x2</range>
+      </props>
+    </block>
+
+    <block>
+      <x>28</x>
+      <y>11</y>
+      <props>
+        <type>3</type>
+        <range>2x2</range>
+      </props>
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>8</y>
+      <props>
+        <type>3</type>
+        <range>2x2</range>
+      </props>
+    </block>
+
+    <block>
+      <x>2</x>
+      <y>10</y>
+      <props>
+        <type>3</type>
+        <range>1x5</range>
+      </props>
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>4</y>
+      <props>
+        <type>3</type>
+        <range>8x1</range>
+      </props>
+    </block>
+
+    <block>
+      <x>12</x>
+      <y>0</y>
+      <props>
+        <type>3</type>
+        <range>8x1</range>
+      </props>
+    </block>
+
+    <block>
+      <x>6</x>
+      <y>4</y>
+      <props>
+        <type>3</type>
+        <range>8x1</range>
+      </props>
+    </block>
+
+    <block>
+      <x>3</x>
+      <y>17</y>
+      <props>
+        <type>3</type>
+        <range>8x1</range>
+      </props>
+    </block>
+
+
+
+    <block>
+      <x>6</x>
+      <y>8</y>
+      <props>
+        <type>3</type>
+        <range>1x3</range>
+      </props>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>11</y>
+      <props>
+        <type>3</type>
+        <range>5x1</range>
+      </props>
+    </block>
+    <block>
+      <x>28</x>
+      <y>10</y>
+      <props>
+        <type>3</type>
+        <range>2x1</range>
+      </props>
+    </block>
+
+  </map>
+
+  <item>
+    <props>
+      <type>4</type>
+      <amount>0</amount>
+    </props>
+    <props>
+      <type>5</type>
+      <amount>1</amount>
+    </props>
+    <props>
+      <type>6</type>
+      <amount>5</amount>
+    </props>
+  </item>
+
+</root>

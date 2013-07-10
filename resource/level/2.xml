@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <base>
+    <level>2</level>
+    <name>绕墙行动</name>
+    <description>可恶，输入端口和输出端口被一些墙给挡住了，试试绕过墙</description>
+    <winmessage>恭喜你通过第二关，继续前进吧！</winmessage>
+    <bgm>level2</bgm>
+  </base>
+  <map>
+    <baseblock>
+      <type>0</type>
+      <props>
+        <type>0</type>
+        <range>1x1</range>
+      </props>
+    </baseblock>
+
+    <block>
+      <x>8</x>
+      <y>0</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>1</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>2</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>3</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>5</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>6</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>7</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>8</x>
+      <y>8</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>3</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>5</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>6</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>7</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>8</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>9</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>10</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>11</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>12</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>13</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>14</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>15</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>16</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>13</x>
+      <y>17</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>18</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>19</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>20</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>21</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>22</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>23</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>24</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>25</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>26</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>27</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>28</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>29</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>30</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>31</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>6</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>7</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>7</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>8</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>9</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>10</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>11</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>12</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>13</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>14</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>15</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>16</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>17</x>
+      <y>17</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>0</x>
+      <y>0</y>
+      <props>
+        <type>1</type>
+      </props>
+    </block>
+
+    <block>
+      <x>31</x>
+      <y>17</y>
+      <props>
+        <type>2</type>
+      </props>
+    </block>
+
+  </map>
+  <item>
+    <props>
+      <type>4</type>
+      <amount>0</amount>
+    </props>
+  </item>
+</root>

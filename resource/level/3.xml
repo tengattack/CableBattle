@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <base>
+    <level>3</level>
+    <name>翻墙试练</name>
+    <description>有一段墙把输入端和输出端给彻底挡住不能绕过去，你现在有一对无线路由器，试试，用它跨越墙的阻隔</description>
+    <winmessage>恭喜你通过第三关，你已经掌握了很多技能，继续加油！</winmessage>
+    <bgm>level3</bgm>
+
+  </base>
+  <map>
+    <baseblock>
+      <type>0</type>
+      <props>
+        <type>0</type>
+        <range>1x1</range>
+      </props>
+    </baseblock>
+    
+    <block>
+      <x>15</x>
+      <y>0</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>1</y>
+      <type>1</type> 
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>2</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>3</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>5</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>3</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>4</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>5</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>6</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>7</y>
+      <type>1</type>
+    </block>
+ 
+    <block>
+      <x>15</x>
+      <y>8</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>9</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>10</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>11</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>12</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>13</y>
+      <type>1</type>
+    </block>
+ 
+    <block>
+      <x>15</x>
+      <y>14</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>15</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>16</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>15</x>
+      <y>17</y>
+      <type>1</type>
+    </block>
+
+    <block>
+      <x>0</x>
+      <y>0</y>
+      <props>
+        <type>1</type>
+      </props>
+    </block>
+
+    <block>
+      <x>31</x>
+      <y>17</y>
+      <props>
+        <type>2</type>
+      </props>
+    </block>
+ 
+  </map>
+  <item>
+    <props>
+      <type>5</type>
+      <amount>2</amount>
+    </props>
+    <props>
+      <type>4</type>
+      <amount>0</amount>
+    </props>
+  </item>
+</root>

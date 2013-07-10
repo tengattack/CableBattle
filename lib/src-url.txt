@@ -1,0 +1,8 @@
+dom4j-1.6.1:
+http://dom4j.sourceforge.net/dom4j-1.6.1/
+
+jorbis-0.0.17:
+http://www.jcraft.com/jorbis/
+
+JSON-java:
+https://github.com/douglascrockford/JSON-java
